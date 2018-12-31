@@ -1,1 +1,1 @@
-# notify-spot-ecs
+# SpotDrainingHook
